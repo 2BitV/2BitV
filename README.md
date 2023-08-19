@@ -11,7 +11,7 @@
 ```javascript
 const vesper = {
     code: ['Python', 'Java'],
-    currentlyLearning: ['JavaScript', 'React.js']
+    currentlyLearning: ['JavaScript', 'React.js'],
     motto: 'Per Aspera Ad Astra.',
 }
 ```
