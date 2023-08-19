@@ -10,7 +10,8 @@
 
 ```javascript
 const vesper = {
-  code: [Python, Java],
-  motto: "Per Aspera Ad Astra.",
+    code: ['Python', 'Java'],
+    currentlyLearning: ['JavaScript', 'React.js']
+    motto: 'Per Aspera Ad Astra.',
 }
 ```
