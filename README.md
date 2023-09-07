@@ -5,8 +5,6 @@
 
 [![GitHub Vesper](https://img.shields.io/github/followers/2BitV?label=follow&style=social)](https://github.com/2BitV)
 
-![Vesper's GitHub stats](https://github-readme-stats.vercel.app/api?username=2BitV&show_icons=true&theme=dracula)
-
 ### A little more about me...  
 
 ```javascript
